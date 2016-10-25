@@ -14,10 +14,6 @@
 
   http://research.google.com/archive/mapreduce-osdi04-slides/index-auto-0003.html
 
-4. Big Data & Weather Forecasting
-
-  https://www.wired.com/insights/2013/02/how-big-data-can-boost-weather-forecasting/
-
-5. Big Data & NASA
+4. Big Data & NASA
 
   http://www.informationweek.com/big-data/hardware-architectures/how-nasa-manages-big-data-/d/d-id/899791
